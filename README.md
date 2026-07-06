@@ -31,6 +31,9 @@ The dashboard and the analysis focusing on help the Head of Delivery Operation a
 - order damaged,
 - delivery day
 
+[See the dashboard](https://public.tableau.com/views/delivery_17833194809940/Dashboard2?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+![Dashboard](Delivery_dashboard.png)
+
 ---
 
 ## Insights
