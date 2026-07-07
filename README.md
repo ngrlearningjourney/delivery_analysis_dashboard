@@ -68,7 +68,25 @@ The dashboard and the analysis focusing on help the Head of Delivery Operation a
 - For Express and Same Day delivery, sending machinery has the lowest rating compared to the other product types.
 - For Standard delivery, sending electronics, documents, groceries, and medicine has the lowest rating.
 
+---
+## Recommendations
+### Delivery Status
+- Conduct extensive research on every order's path from the pickup location to the destination. Build a team at every stage of the delivery process to identify which part of the journey causes products to be damaged or lost. Based on the findings, conduct an evaluation with the delivery and operational teams to solve or improve the delivery journey
+- Examine rail delivery way, to understand the cause of minimum damaged deliveries compare to other type of delivery. Accumulate the insight and try to implement the insight to other delivery method to reduce the number of damaged delivery
 
+### Product Type
+- Understand why groceries are the most preferred product type for delivery. Gather the insights and identify which aspects can be implemented for other product types.
+- Check the causes of the decline in other product deliveries by examining the delivery journey and marketing efforts, or conduct large-scale surveys or interviews with target customers to understand the root cause of the decline.
+
+
+### Delivery Time
+- Examine every delivery that arrive early or on-time with operational, inventory, and delivery team. Check whether if there’s any pattern or insight that could improve our delivery time
+- Perform thorough research to each delivery product that we offer to customer, starting from understanding customer experience to conducting examination on every stage of delivery
+
+### Customer Rating
+- Conduct a survey or interview to our customer, understand their experience, pain point, and understand thier concern. Basen on the insight, arrange a meeting with the delivery, operational, and inventory team to develop an improved system that meet the customer need.
+
+---
 ## Acknowledgements
 
 - **Data**: Personal Knowledge and ChatGPT
